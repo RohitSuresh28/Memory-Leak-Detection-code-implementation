@@ -1,0 +1,21 @@
+SUMMARY ABOUT MEMORY LEAKS OF YOUR SOURCE FILE 
+\00-----------------------------------
+\00Name of your Source File : test.c
+\00Starting Address : 0xaaab0cb842a0
+\00 Total size Of memory Leak : 10 bytes
+\00Line Number for which no DeAllocation    : 6
+\00-----------------------------------
+\00-----------------------------------
+\00Name of your Source File : test.c
+\00Starting Address : 0xaaab0cb84530
+\00 Total size Of memory Leak : 60 bytes
+\00Line Number for which no DeAllocation    : 8
+\00-----------------------------------
+\00-----------------------------------
+\00Name of your Source File : test.c
+\00Starting Address : 0xaaab0cb846a0
+\00 Total size Of memory Leak : 16 bytes
+\00Line Number for which no DeAllocation    : 9
+\00-----------------------------------
+\00-----------------------------------
+\00
